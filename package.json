@@ -1,0 +1,23 @@
+{
+  "name": "quiz-game-markOne",
+  "version": "1.0.0",
+  "description": "This game is a CLI based app created using JavaScript & used repl.it to host it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekkGautam/quiz-game-markOne.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekkGautam/quiz-game-markOne/issues"
+  },
+  "homepage": "https://github.com/AbhishekkGautam/quiz-game-markOne",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
